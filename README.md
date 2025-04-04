@@ -17,11 +17,9 @@ This is a full-stack AI-powered image generator using **Stable Diffusion XL** on
 
 ### 🧠 Prompt Input and Generate Button
 
-![Prompt Input](./assets/screenshots/prompt-input.png)
+![Prompt Input](./Projectsnap.png)
 
-### 🖼️ Generated Image and Download Option
 
-![Generated Output](./assets/screenshots/generated-image.png)
 
 > Make sure to create the `assets/screenshots/` folder and place the screenshots there.
 
